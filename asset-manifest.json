@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.833b0019.chunk.css",
+    "main.js": "/static/js/main.01cc7065.chunk.js",
+    "main.js.map": "/static/js/main.01cc7065.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.42b43283.js",
+    "runtime-main.js.map": "/static/js/runtime-main.42b43283.js.map",
+    "static/css/2.21faa3a9.chunk.css": "/static/css/2.21faa3a9.chunk.css",
+    "static/js/2.ce0d910c.chunk.js": "/static/js/2.ce0d910c.chunk.js",
+    "static/js/2.ce0d910c.chunk.js.map": "/static/js/2.ce0d910c.chunk.js.map",
+    "static/js/3.fdfdd7cc.chunk.js": "/static/js/3.fdfdd7cc.chunk.js",
+    "static/js/3.fdfdd7cc.chunk.js.map": "/static/js/3.fdfdd7cc.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.21faa3a9.chunk.css.map": "/static/css/2.21faa3a9.chunk.css.map",
+    "static/css/main.833b0019.chunk.css.map": "/static/css/main.833b0019.chunk.css.map",
+    "static/js/2.ce0d910c.chunk.js.LICENSE.txt": "/static/js/2.ce0d910c.chunk.js.LICENSE.txt",
+    "static/media/ConfirmedData.7525e842.csv": "/static/media/ConfirmedData.7525e842.csv",
+    "static/media/DeceasedData.8aa32e86.csv": "/static/media/DeceasedData.8aa32e86.csv",
+    "static/media/link.af5db6d7.csv": "/static/media/link.af5db6d7.csv",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg",
+    "static/media/time_province.53a6b377.csv": "/static/media/time_province.53a6b377.csv",
+    "static/media/wordcounts_April.2e7d61e2.csv": "/static/media/wordcounts_April.2e7d61e2.csv",
+    "static/media/wordcounts_December.75ffb191.csv": "/static/media/wordcounts_December.75ffb191.csv",
+    "static/media/wordcounts_February.95584791.csv": "/static/media/wordcounts_February.95584791.csv",
+    "static/media/wordcounts_January.7d6ad7f0.csv": "/static/media/wordcounts_January.7d6ad7f0.csv",
+    "static/media/wordcounts_July.0b45a9f2.csv": "/static/media/wordcounts_July.0b45a9f2.csv",
+    "static/media/wordcounts_June.4f86182d.csv": "/static/media/wordcounts_June.4f86182d.csv",
+    "static/media/wordcounts_March.a4019a2e.csv": "/static/media/wordcounts_March.a4019a2e.csv",
+    "static/media/wordcounts_May.6c61cdec.csv": "/static/media/wordcounts_May.6c61cdec.csv",
+    "static/media/wordcounts_November.93360f9d.csv": "/static/media/wordcounts_November.93360f9d.csv",
+    "static/media/wordcounts_total.e76b9e1c.csv": "/static/media/wordcounts_total.e76b9e1c.csv"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42b43283.js",
+    "static/css/2.21faa3a9.chunk.css",
+    "static/js/2.ce0d910c.chunk.js",
+    "static/css/main.833b0019.chunk.css",
+    "static/js/main.01cc7065.chunk.js"
+  ]
+}
